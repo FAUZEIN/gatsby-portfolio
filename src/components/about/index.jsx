@@ -94,7 +94,7 @@ const About = () => {
               </Text> 
               <Text> working with multi agencies on multi projects allowed me to better understand the expectations of clients and the needs of team members.</Text>
               <Text>  The Only Thing I Know , is that i really know Nothing at all. </Text>
-              <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
+              <ResumeButton href="https://newstoday.id" target="_blank"> Download resume </ResumeButton>
             </div>
           </AboutSection>
         </ContainerLayout>
