@@ -88,8 +88,8 @@ const About = () => {
               
             </div> 
             <div>
-              <Title> Hello, I’m Abdelali </Title>
-              <Text> Full-Stack Engineer from <b className="text-primary lined-link">Morocco</b> </Text>
+              <Title> Hello, I’m fauzen </Title>
+              <Text> Full-Stack Engineer from <b className="text-primary lined-link">Indonesi</b> </Text>
               <Text>  Experienced Software Engineer Passionate about workability and learning with good technical experience Relational Database and multitude of NoSQL DBs, Java, Js, Data Structure, Algorithms. I'm seeking to learn more to get an experience and increase my knowledge stack to build stable and high scalable system with a strong information technology professional with a bachelor’s degree focused on computer science.
               </Text> 
               <Text> working with multi agencies on multi projects allowed me to better understand the expectations of clients and the needs of team members.</Text>
